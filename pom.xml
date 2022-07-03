@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>web-app3.0</finalName>
+		<finalName>web-app4.0</finalName>
 		
 		<plugins>
 			<plugin>
